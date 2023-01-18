@@ -1,0 +1,4 @@
+﻿  oop3_26.cpp
+D:\disk D\C++\oop3_26\oop3_26\oop3_26.cpp(9,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\disk D\C++\oop3_26\oop3_26\oop3_26.cpp(147,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  oop3_26.vcxproj -> D:\disk D\C++\oop3_26\Debug\oop3_26.exe
